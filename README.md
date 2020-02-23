@@ -1,0 +1,2 @@
+# frostspire-api
+Frostspire API
