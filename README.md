@@ -1,2 +1,2 @@
 # frostspire-api
-Frostspire API
+API for https://frostspire.net built with Express.
